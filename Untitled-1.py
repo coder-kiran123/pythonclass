@@ -1,0 +1,10 @@
+
+print("my name is kiran paudel")
+print("i live in kathmandu")
+print("i love pizza")
+print("i love playing code")
+print("i hate bad habit ")
+print('i love travelling')
+print("i like cooking")
+print("one day i will be big person")
+print ("mero vatij katam third class xha")
